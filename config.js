@@ -83,9 +83,9 @@ const CONFIG = {
     },
     {
       id: '6',
-      name: 'Odysee',
+      name: 'Gogoanime',
       icon: 'youtube',
-      link: 'https://odysee.com/',
+      link: 'https://gogoanime.film',
     },
   ],
 
@@ -135,7 +135,7 @@ const CONFIG = {
   // First Links Container
   firstlistsContainer: [
     {
-      icon: 'coffee',
+      icon: 'binary',
       id: '1',
       links: [
         {
@@ -165,21 +165,23 @@ const CONFIG = {
           link: 'https://replit.com',
         },
         {
-          name: 'Gogo',
-          link: 'https://gogoanime.film',
+          name: 'Euler',
+          link: 'https://projecteuler.net/',
         },
         {
-          name: 'Trello',
-          link: 'https://www.trello.com',
+          name: 'Leetcode',
+          link: 'https://leetcode.com/',
         },
         {
-          name: 'Slack',
-          link: 'https://www.slack.com',
+          name: 'Advent of Code',
+          link: 'https://adventofcode.com/',
         },
       ],
     },
   ],
-
+  // https://exercism.org/
+  
+  
   // Second Links Container
   secondListsContainer: [
     {
