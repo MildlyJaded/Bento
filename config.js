@@ -11,7 +11,7 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'John',
+  name: 'Jade',
   imageBackground: false,
   openInNewTab: true,
   twelveHourFormat: false,
@@ -61,7 +61,7 @@ const CONFIG = {
       id: '2',
       name: 'Mail',
       icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      link: 'https://outlook.office.com/mail/',
     },
     {
       id: '3',
@@ -73,13 +73,13 @@ const CONFIG = {
       id: '4',
       name: 'Calendar',
       icon: 'calendar',
-      link: 'https://calendar.google.com/calendar/r',
+      link: 'https://mytimetable.keele.ac.uk/calendar/student/me',
     },
     {
       id: '5',
-      name: 'Reddit',
+      name: 'KLE',
       icon: 'glasses',
-      link: 'https://reddit.com',
+      link: 'https://kle.keele.ac.uk',
     },
     {
       id: '6',
@@ -135,24 +135,24 @@ const CONFIG = {
   // First Links Container
   firstlistsContainer: [
     {
-      icon: 'music',
+      icon: 'coffee',
       id: '1',
       links: [
         {
-          name: 'Inspirational',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          name: 'Arch',
+          link: 'https://security.archlinux.org/',
         },
         {
-          name: 'Classic',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          name: 'wiki',
+          link: 'https://wiki.archlinux.org/',
         },
         {
-          name: 'Oldies',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          name: 'packages',
+          link: 'https://archlinux.org/packages/',
         },
         {
-          name: 'Rock',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          name: 'AUR',
+          link: 'https://aur.archlinux.org/packages',
         },
       ],
     },
@@ -161,12 +161,12 @@ const CONFIG = {
       id: '2',
       links: [
         {
-          name: 'Linkedin',
-          link: 'https://www.linkedin.com',
+          name: 'Repl',
+          link: 'https://replit.com',
         },
         {
-          name: 'Dribbble',
-          link: 'https://www.dribbble.com',
+          name: 'Gogo',
+          link: 'https://gogoanime.film',
         },
         {
           name: 'Trello',
